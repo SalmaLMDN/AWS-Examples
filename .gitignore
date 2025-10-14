@@ -20,3 +20,4 @@ crash.*.log
 # are not
 dommed*.txt
 *.txt
+*.orig
